@@ -3,7 +3,7 @@ from pytube import Playlist
 import os
 
 # Replace this with the URL of the YouTube playlist you want to download
-playlist_url = 'https://www.youtube.com/playlist?list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z'
+playlist_url = 'https://www.youtube.com/playlist'
 
 # Replace this with the path to the directory where you want to save the videos
 download_dir = 'Playlist Videos'
